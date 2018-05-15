@@ -7,7 +7,7 @@ namespace consoleapp
         static void Main(string[] args)
         {
             //testing jenkins build 
-            onsole.WriteLine("Hello !!");
+            Console.WriteLine("Hello !!");
         }
     }
 }
